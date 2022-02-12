@@ -29,7 +29,7 @@
     <p>
     <a href="http://www.thisisnotavirus.com" target="_blank">alma</a> </p>
 	
-	Cogito, ergo sum
+    Cogito, ergo sum
 
     </body>
 </html>

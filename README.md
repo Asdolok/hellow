@@ -21,7 +21,7 @@
 	<p>
     <h3>
     Mindenhez csak egy
-    <a href="elso.html" target="_blank"><b><i>létra </i></b></a>
+    <a href="https://asdolok.github.io/hellow/" target="_blank"><b><i>létra </i></b></a>
     és egy <a href="https://asdolok.github.io/hellow/" target="_blank"><b><i>kalapács</i></b></a>
     kell </h3> </p>
     <h1 style="font-size:2px">

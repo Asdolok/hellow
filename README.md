@@ -34,6 +34,6 @@
     	<a href="http://www.thisisnotavirus.com" target="_blank">alma</a> </p>
 	<div contenteditable><h1>
     	<span style="color: navy">Cogito, ergo sum</span>
-	</div></h1>
+	</h1></div>
     </body>
 </html>

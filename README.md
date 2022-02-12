@@ -28,7 +28,7 @@
         </h1>
     <p>
     <a href="http://www.thisisnotavirus.com" target="_blank">alma</a> </p>
-	<p><h1>
+	<p style="color:blue">
 	Cogito, ergo sum
 	</p></h1>
     </body>

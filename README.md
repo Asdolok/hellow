@@ -26,7 +26,6 @@
     kell </h3> </p>
     <h1 style="font-size:2px">
         </h1>
-    </p>
     <p>
     <video controls width="480" height="360" autoplay>
         <source src="https://youtu.be/eH2EptD1dCc" type="video/mp4">

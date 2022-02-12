@@ -32,10 +32,8 @@
 	</p>
 	<p>
     	<a href="http://www.thisisnotavirus.com" target="_blank">alma</a> </p>
-	<p>
 	<div contenteditable><h1>
     	<span style="color: navy">Cogito, ergo sum</span>
 	</h1></div>
-	</p>
     </body>
 </html>

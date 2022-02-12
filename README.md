@@ -36,6 +36,6 @@
     </video>
     </p>
     <p>
-    <a href="http://www.thisisnotavirus.com" target="_blank">alma</a> </p> </style>
+    <a href="http://www.thisisnotavirus.com" target="_blank">alma</a> </p>
     </body>
 </html>

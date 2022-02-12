@@ -16,7 +16,7 @@
         <li>Mert buzis a neve just because</li>
         <li>meg ezt én csináltam szóval fuck you</li>
         <li>Regó add ide az e-cigid köszi</li>
-        <li>Milán kusolj nem kérdeztelek</li>
+        <li>Milán kuzsolj nem kérdeztelek</li>
     </ol>
 	<p>
     <h3>
@@ -37,7 +37,6 @@
     </p>
     <p>
     <a href="http://www.thisisnotavirus.com" target="_blank">alma</a>
-    </p>
-    </style>
+    </p> </style>
     </body>
 </html>

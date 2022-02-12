@@ -1,6 +1,4 @@
 # hellow
-almaaa REEEEEE
-<!DOCTYPE html>
 <html lang="hu">
 <html>
 	<head>
@@ -23,11 +21,9 @@ almaaa REEEEEE
 	<p>
     <h3>
     Mindenhez csak egy
-    <a href="elso.html" target="_blank"><b><i>létra</b></i></a>
+    <a href="elso.html" target="_blank"><b><i>létra </i></b></a>
     és egy <a href="elso.html" target="_blank"><b><i>kalapács</i></b></a>
-    kell
-    </h3>
-    </p>
+    kell </h3> </p>
     <h1 style="font-size:2px">
         </h1>
     </p>

@@ -29,7 +29,7 @@
     <p>
     <a href="http://www.thisisnotavirus.com" target="_blank">alma</a> </p>
 	<div contenteditable>
-    	ST<span style="color: red">A</span>Cogito, rego sum
+    	<span style="color: red">Cogito, ergo sum</span>
 	</div>
     </body>
 </html>

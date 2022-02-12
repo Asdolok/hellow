@@ -26,8 +26,7 @@
     kell </h3> </p>
     <h1 style="font-size:2px">
         </h1>
-	<p>
-		<div align="center" style="width:100%;height:100%">
+	<p>	
 		<video style="width:500px" controls autoplay>
 		<source src="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
 	</p>

@@ -19,7 +19,6 @@
         <li>Regó add ide az e-cigid köszi</li>
         <li>Milán kusolj nem kérdeztelek</li>
     </ol>
-
 	<p>
     <h3>
     Mindenhez csak egy
@@ -28,9 +27,6 @@
     kell
     </h3>
     </p>
-
-
-
     <h1 style="font-size:2px">
         </h1>
     </p>

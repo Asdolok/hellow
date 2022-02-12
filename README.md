@@ -30,22 +30,17 @@
     <h1 style="font-size:2px">
         </h1>
     </p>
-
-
     <p>
     <video controls width="480" height="360" autoplay>
         <source src="https://youtu.be/eH2EptD1dCc" type="video/mp4">
     </video>
-    
     <video controls width="480" height="360" autoplay>
         <source src="https://www.youtube.com/watch?v=dQw4w9WgXcQ" type="video/mp4">
     </video>
     </p>
-
     <p>
     <a href="http://www.thisisnotavirus.com" target="_blank">alma</a>
     </p>
     </style>
-
     </body>
 </html>

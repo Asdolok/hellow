@@ -27,11 +27,11 @@
     <h1 style="font-size:2px">
         </h1>
 	<p>	
-		<video style="width:500px" controls autoplay>
-		<source src="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+	<video style="width:500px" controls autoplay>
+	<source src="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
 	</p>
-    <p>
-    <a href="http://www.thisisnotavirus.com" target="_blank">alma</a> </p>
+	<p>
+    	<a href="http://www.thisisnotavirus.com" target="_blank">alma</a> </p>
 	<div contenteditable><h1>
     	<span style="color: navy">Cogito, ergo sum</span>
 	</div></h1>
